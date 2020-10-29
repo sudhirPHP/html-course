@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-  
 </head>
-  <body>
+<body>
+     <div class="container">
+        <div class="menu">
+            <ul>
+            <li>Home</li>
+            <li>Service</li> 
+            <li>Product</li> 
+            <li>Contant</li> 
+            <li>Abuot Us</li> 
+           </ul>
+        </div> 
+     </div> 
 
-  <h2>Welcome to my channel </h2>
+
   
+
+
 </body>
 </html>
